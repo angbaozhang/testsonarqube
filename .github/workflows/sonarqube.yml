@@ -33,3 +33,4 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=linda:testsonarqube
+            -Dsonar.organization=linda
