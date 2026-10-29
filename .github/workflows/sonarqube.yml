@@ -32,5 +32,5 @@ jobs:
           SONAR_HOST_URL: https://sonarcloud.io
         with:
           args: >
-            -Dsonar.projectKey=linda:testsonarqube
-            -Dsonar.organization=linda
+            -Dsonar.projectKey=angbaozhang:testsonarqube
+            -Dsonar.organization=angbaozhang
