@@ -97,4 +97,4 @@ def complex_score(items):
 
 
 if __name__ == "__main__":
-    print("SonarCloud demo project")
+    print("SonarCloud demo project!")
