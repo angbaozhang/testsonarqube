@@ -5,7 +5,8 @@ on:
   pull_request:
     branches: [ main ]
     types: [opened, synchronize, reopened]
-
+  workflow_dispatch:  # 开启手动按钮
+  
 jobs:
   sonarcloud:
     runs-on: ubuntu-latest
